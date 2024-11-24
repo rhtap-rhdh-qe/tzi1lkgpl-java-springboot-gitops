@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tzi1lkgpl-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tzi1lkgpl-java-springboot
